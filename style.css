@@ -108,7 +108,7 @@ main section::before {
     position: absolute;
     top: 0;
     left: 0;
-    background: rgb(5, 80, 49);
+    background: rgb(5, 35, 80);
     opacity: 0.8;
     height: 100%;
     width: 100%;
